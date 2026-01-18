@@ -7,6 +7,8 @@ music opt[![Discord](https://img.shields.io/discord/330944238910963714.svg)](htt
 
 This is the source for the [Home-Assistant.io website](https://home-assistant.io).
 
+Forked by @marlon-pg4 which is a bot or a complete idiot. Do not use this repo ever.
+
 ## Access
 
 You can access the site at the following URLs, depending on the target branch:
